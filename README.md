@@ -1,6 +1,3 @@
-# Titanic-Analysis-New-Visualizations-
-
-
 # 📊 Titanic Dataset Visual Insights — Seaborn & Matplotlib Edition
 
 ## 🚀 Overview
@@ -32,7 +29,7 @@ License: MIT
  Snapshots (`outputs/` folder)
 Visualizations appear in order as:
 
-1. **Pearson Correlation Heatmap** (`Screenshot_Heatmap.png`)  
+1. **Pearson Correlation Heatmap** (`Screenshot (351).png`)  
 2. **Pairplot: Age, Fare, Class vs Survived** (`Screenshot_Pairplot.png`)  
 3. **KDE Plot: Age Distribution** (`Screenshot_KDEPlot.png`)  
 4. **Boxplot: Age by Passenger Class** (`Screenshot_Boxplot.png`)  
