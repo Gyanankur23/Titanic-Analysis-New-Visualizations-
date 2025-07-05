@@ -26,10 +26,10 @@ The script `titanic_new_visualizations.py` produces insightful plots that reveal
  Snapshots (`outputs/` folder)
 Visualizations appear in order as:
 
- #### 🧪 1. Pearson Correlation Heatmap
+#### 🧪 1. Pearson Correlation Heatmap
 ![Pearson Heatmap](outputs/Screenshot%20(351).png)
   
- #### 🌈 2. Pairplot – Age, Fare, Class vs Survived
+#### 🌈 2. Pairplot – Age, Fare, Class vs Survived
 ![Pairplot](outputs/Screenshot%20(352).png)
 
 #### 📊 3. KDE Plot – Age Distribution
@@ -70,6 +70,7 @@ pip install pandas matplotlib seaborn openpyxl
 ```
 
 ## ▶️ Run Script
+
 ```python titanic_new_visualizations.py
 ```
 
