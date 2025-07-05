@@ -1,11 +1,11 @@
 # Titanic-Analysis-New-Visualizations-
 
-Absolutely, here's your updated and properly structured README.md tailored for titanic_new_visualizations.py, now reflecting that the screenshots come from your Matplotlib + Seaborn outputs, not Dash. It’s professional, clean, and optimized with emoji-enhanced markdown sections, file references, and illustrative code snippets.
 
 # 📊 Titanic Dataset Visual Insights — Seaborn & Matplotlib Edition
 
 ## 🚀 Overview
 This project explores the Titanic dataset through elegant, statistical visualizations using `Seaborn` and `Matplotlib`.  
+
 The script `titanic_new_visualizations.py` produces insightful plots that reveal survival trends, class distributions, and age analytics.
 
 Created by **Gyanankur Baruah** — `GitHub: @Gyanankur23`  
@@ -16,16 +16,20 @@ License: MIT
 ## 📎 Script Reference
 **Filename**: `titanic_new_visualizations.py`
 
-Libraries used:
+## Libraries used:
 - `pandas` 🐼
 - `matplotlib` 📐
 - `seaborn` 🌊
 
-Data source: `Titanic Dataset.xlsx` (loaded with `openpyxl` engine)
+##Data source: 
+
+`Titanic Dataset.xlsx` (loaded with `openpyxl` engine)
 
 ---
 
-## 🖼️ Screenshots & Output Snapshots (`outputs/` folder)
+## 🖼️ Screenshots & Output
+
+ Snapshots (`outputs/` folder)
 Visualizations appear in order as:
 
 1. **Pearson Correlation Heatmap** (`Screenshot_Heatmap.png`)  
@@ -56,23 +60,27 @@ sns.boxplot(x="Pclass", y="Age", data=df)
 
 
 
-📦 Installation & Usage
+## 📦 Installation & Usage
 💻 Dependencies
 pip install pandas matplotlib seaborn openpyxl
 
 
-▶️ Run Script
+## ▶️ Run Script
 python titanic_new_visualizations.py
 
 
 All visualizations will render consecutively for review or screenshot capture.
 
-📜 License
+## 📜 License
 This project is licensed under the MIT License.
 Feel free to fork, adapt, and share with credit to the author.
 
-🙋‍♂️ Author
+## 🙋‍♂️ Author
+
 Gyanankur Baruah
-🔗 GitHub: github.com/Gyanankur23
+
+## 🔗 GitHub: github.com/Gyanankur23
+
 📌 Proudly representing Thakur Shyamnarayan Degree College, Mumbai University
+
 For collaboration, feedback, or to showcase your build using this template—reach out anytime!
