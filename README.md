@@ -33,7 +33,7 @@ Visualizations appear in order as:
 ![Pairplot](outputs/Screenshot%20(352).png)
 
 #### 📊 3. KDE Plot – Age Distribution
-![KDE Plot](outputs/Screenshot%20(353).png)`)  
+![KDE Plot](outputs/Screenshot%20(353).png)
 
 #### 📦4. Boxplot – Age by Passenger Class
 ![Boxplot](outputs/Screenshot%20(354).png)  
@@ -71,7 +71,8 @@ pip install pandas matplotlib seaborn openpyxl
 
 ## ▶️ Run Script
 
-```python titanic_new_visualizations.py
+```bash
+python titanic_new_visualizations.py
 ```
 
 All visualizations will render consecutively for review or screenshot capture.
