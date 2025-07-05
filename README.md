@@ -5,10 +5,7 @@ This project explores the Titanic dataset through elegant, statistical visualiza
 
 The script `titanic_new_visualizations.py` produces insightful plots that reveal survival trends, class distributions, and age analytics.
 
-Created by **Gyanankur Baruah** — `GitHub: @Gyanankur23`  
-License: MIT
 
----
 
 ## 📎 Script Reference
 **Filename**: `titanic_new_visualizations.py`
@@ -73,20 +70,26 @@ pip install pandas matplotlib seaborn openpyxl
 ```
 
 ## ▶️ Run Script
-python titanic_new_visualizations.py
-
+```python titanic_new_visualizations.py
+```
 
 All visualizations will render consecutively for review or screenshot capture.
 
 ## 📜 License
-This project is licensed under the MIT License.
+
+This project is licensed under the MIT License. ©️
 Feel free to fork, adapt, and share with credit to the author.
 
 ## 🙋‍♂️ Author
 
 Gyanankur Baruah
 
-## 🔗 GitHub: github.com/Gyanankur23
+@Gyanankur23
+
+## 🔗 GitHub: 
+```bash
+github.com/Gyanankur23
+```
 
 📌 Proudly representing Thakur Shyamnarayan Degree College, Mumbai University
 
