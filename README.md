@@ -52,22 +52,25 @@ sns.heatmap(df.corr(numeric_only=True), annot=True, cmap="coolwarm", linewidths=
 
 🔹 2. Pairplot Colored by Survival Status
 ```python sns.pairplot(df.dropna(subset=["Age", "Fare", "Pclass", "Survived"]),
-             vars=["Age", "Fare", "Pclass"], hue="Survived")
+vars=["Age", "Fare", "Pclass"], hue="Survived")
 ```
 
 🔹 3. KDE Plot — Age Distribution
+```python
 sns.kdeplot(df["Age"].dropna(), shade=True, color="green")
-
+```
 
 🔹 4. Boxplot — Age by Class
+```python
 sns.boxplot(x="Pclass", y="Age", data=df)
-
+```
 
 
 ## 📦 Installation & Usage
 💻 Dependencies
+```bash
 pip install pandas matplotlib seaborn openpyxl
-
+```
 
 ## ▶️ Run Script
 python titanic_new_visualizations.py
