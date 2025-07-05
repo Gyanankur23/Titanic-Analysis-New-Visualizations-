@@ -29,10 +29,17 @@ License: MIT
  Snapshots (`outputs/` folder)
 Visualizations appear in order as:
 
-1. **Pearson Correlation Heatmap** (`Screenshot (351).png`)  
-2. **Pairplot: Age, Fare, Class vs Survived** (`Screenshot_Pairplot.png`)  
-3. **KDE Plot: Age Distribution** (`Screenshot_KDEPlot.png`)  
-4. **Boxplot: Age by Passenger Class** (`Screenshot_Boxplot.png`)  
+ #### 🧪 1. Pearson Correlation Heatmap
+![Pearson Heatmap](outputs/Screenshot%20(351).png)
+  
+ #### 🌈 2. Pairplot – Age, Fare, Class vs Survived
+![Pairplot](outputs/Screenshot%20(352).png)
+
+#### 📊 3. KDE Plot – Age Distribution
+![KDE Plot](outputs/Screenshot%20(353).png)`)  
+
+#### 📦4. Boxplot – Age by Passenger Class
+![Boxplot](outputs/Screenshot%20(354).png)  
 
 ---
 
